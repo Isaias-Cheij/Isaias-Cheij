@@ -34,4 +34,4 @@ Computer Science student at **Universidad Nacional de Río Cuarto** (UNRC), pass
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaías-cheij-7871b6433/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icheij@dc.exa.unrc.edu.ar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icheij@dc.exa.unrc.edu.ar) `icheij@dc.exa.unrc.edu.ar`
